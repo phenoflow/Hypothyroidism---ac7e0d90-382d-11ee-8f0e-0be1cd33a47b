@@ -1,0 +1,36 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/congenital-hypothyroidism---primary.py
+inputModule3:
+  class: File
+  path: python/other-hypothyroidism---primary.py
+inputModule4:
+  class: File
+  path: python/hypothyroidism-goitre---primary.py
+inputModule5:
+  class: File
+  path: python/hypothyroidism-acquired---primary.py
+inputModule6:
+  class: File
+  path: python/hypothyroidism-myxoedema---primary.py
+inputModule7:
+  class: File
+  path: python/hypothyroidism---primary.py
+inputModule8:
+  class: File
+  path: python/postablative-hypothyroidism---primary.py
+inputModule9:
+  class: File
+  path: python/iatrogenic-hypothyroidism---primary.py
+inputModule10:
+  class: File
+  path: python/hypothyroidism-resulting---primary.py
+inputModule11:
+  class: File
+  path: python/hypothyroidism-thyroxine---primary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
